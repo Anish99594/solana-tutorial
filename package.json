@@ -15,5 +15,8 @@
     "dotenv": "^16.4.5",
     "esrun": "^3.2.26",
     "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.2.0"
   }
 }
